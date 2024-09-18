@@ -95,7 +95,7 @@ For more details, see the official Poetry documentation.
     poetry run python scr.py
 
 ## Project Structure
-
+```
 ├── etl_parquet_athena_glue/
 │   ├── __pycache__
 │   ├── __init__.py
